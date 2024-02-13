@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.adl.dc.debs.estore.gateway.service.estoregatewayservice.EstoreGatewayServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.000 s -- in com.adl.dc.debs.estore.gateway.service.estoregatewayservice.EstoreGatewayServiceApplicationTests

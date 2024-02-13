@@ -1,0 +1,3 @@
+com\adl\dc\debs\estore\gateway\service\estoregatewayservice\filter\RequestHeaderFilter$Config.class
+com\adl\dc\debs\estore\gateway\service\estoregatewayservice\filter\RequestHeaderFilter.class
+com\adl\dc\debs\estore\gateway\service\estoregatewayservice\EStoreGatewayServiceApplication.class
